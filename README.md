@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | Geospatial Specialist** — Ontario, Canada
 
-I build web applications and data systems around maps and environmental data. For the past seven years I've been developing a decision-support platform used by municipalities, utilities, and conservation authorities for flood forecasting, water quality, and watershed modelling — APIs, mapping frontends, custom tile servers, and a PostGIS warehouse.
+I build web applications and data systems around maps and environmental data. For the past seven years I've been developing a decision-support platform used by municipalities, utilities, and conservation authorities for flood forecasting, water quality, and watershed modelling. My work spans the full stack: APIs, mapping frontends, custom tile servers, and a PostGIS warehouse
 
 **What I work with**
 
