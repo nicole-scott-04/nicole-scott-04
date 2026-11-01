@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nicole Scott 👋
 
-<!--
-**nicole-scott-04/nicole-scott-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer | Geospatial Specialist** — Ontario, Canada
 
-Here are some ideas to get you started:
+I build web applications and data systems around maps and environmental data. For the past seven years I've been developing a decision-support platform used by municipalities, utilities, and conservation authorities for flood forecasting, water quality, and watershed modelling — APIs, mapping frontends, custom tile servers, and a PostGIS warehouse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+
+- **Backend:** Python (FastAPI), Node.js, R · REST APIs · Redis
+- **Frontend:** React, TypeScript, Mapbox
+- **Data:** PostgreSQL/PostGIS · ETL pipelines · large geospatial & time-series datasets
+- **Geospatial:** GDAL, QGIS, pg_tileserv, TiTiler, Cloud-Optimized GeoTIFFs
+- **Cloud & DevOps:** AWS, Docker, CI/CD
+
+Most of my work lives in private and client repositories — happy to walk through it on request.
+
+📫 [LinkedIn](https://www.linkedin.com/in/nicole-scott-39b05597) · ncscott.04@gmail.com
